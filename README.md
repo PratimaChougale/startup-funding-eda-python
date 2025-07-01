@@ -54,7 +54,7 @@ The dataset contains details of startup investments made in India from 2015 onwa
 
 ## 💼 Author
 **Pratima Jitendra Chougale**  
-📧 chougalepratima@gmail.com  
+📧 adamapurepratima20@gmail.com  
 
 ---
 
